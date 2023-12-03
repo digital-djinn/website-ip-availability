@@ -4,6 +4,6 @@ This script uses the ping command to check if the website or ip is up
 
 THE USAGE
   ./siteup.sh website/ipaddress   
-  #  USAGE EXAMPLES
-  # ./siteup.sh 192.168.119.135
-  # ./siteup .sh google.com
+USAGE EXAMPLES
+ ./siteup.sh 192.168.119.135
+ ./siteup .sh google.com
